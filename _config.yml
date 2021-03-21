@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: limiteci.tech
-description: open source software + $esc
+description: software + crypto
+logo: esc/images/favicons/favicon.ico
+show_downloads: true
