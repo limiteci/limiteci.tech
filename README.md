@@ -1,3 +1,3 @@
 # limiteci.tech
-
-## open source software + cryptography
+- This is the open-source code for the website
+- https://limiteci.tech
